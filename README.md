@@ -45,3 +45,6 @@ This project is licensed under the GNU Public License - see the [LICENSE.md](LIC
 
 * Got inspired by my frustration on editing with multiple images at once. Existing plugins didn't automate exporting and exporting in WebP in particular.
 * GIMP plug-ins repositories helped me understanding basic mechanics of the software.
+### Tips
+* You can manually launch gimp console version for verbose output on script errors
+* You can launch the python interpreter embedded in GIMP program files to debug the syntax of your script
