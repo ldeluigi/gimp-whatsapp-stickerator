@@ -13,11 +13,11 @@ Install [GIMP](https://www.gimp.org/).
 
 Download the [plugin](/WhatsappStickerFormat.py) and follow the instructions on [this](https://en.wikibooks.org/wiki/GIMP/Installing_Plugins#Copying_the_plugin_to_the_GIMP_plugin_directory) page for plugin installation.
 
-_Note that in Windows and probably in other OS as well, there is no difference between putting the plugin inside the folder "plug-ins" inside the installation folder or inside the home/appdata folder of the user. Just don't put the plugin inside both because there will be conflicts_
+_Note that in Windows and probably in other OS as well, there is no difference between putting the plugin inside the folder "plug-ins" from the installation folder or from the home/appdata folder of the user. Just don't put the plugin inside both because there will be name conflicts._
 
 ## Tests
 
-Try the plugin by opening GIMP and by loading some images in the workspace. To activate the plugin you shoulg navigate to File __>__ Export All __>__ WhatsApp __>__ Export All as WhatsApp Stickers
+Try the plugin by opening GIMP and by loading some images in the workspace. To activate the plugin you should navigate to File __>__ Export All __>__ WhatsApp __>__ Export All as WhatsApp Stickers
 
 ## Built With
 
