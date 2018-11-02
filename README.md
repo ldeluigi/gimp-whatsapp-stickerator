@@ -17,7 +17,7 @@ _Note that in Windows and probably in other OS as well, there is no difference b
 
 ## Tests
 
-Try the plugin by opening GIMP and by loading some images in the workspace. To activate the plugin you should navigate to File __>__ Export All __>__ WhatsApp __>__ Export All as WhatsApp Stickers
+Try the plugin by opening GIMP and by loading some images in the workspace. To activate the plugin you should navigate to File __>__ Export All __>__ WhatsApp __>__ Export all images as WhatsApp Stickers WebP
 
 ## Built With
 
